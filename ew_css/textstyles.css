@@ -100,3 +100,23 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.Style30{font-family:  'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #FFFEFF;
+ word-wrap: break-word;}
+.linkStyle_31{font-family:  'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #FEFB00 #FF2600 */
+ word-wrap: break-word;}
+.linkStyle_31:visited{color:#FEFB00; text-decoration:underline;}
+.linkStyle_31:hover{color:#FF2600; text-decoration:underline;}
+.Style34{font-family:  'Arial' ,sans-serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ margin:0;
+ color: #FFFEFF;
+ word-wrap: break-word;}
