@@ -137,3 +137,12 @@ a.outerlink{text-decoration:none}
  font-weight:700; 
  color: #FFFEFF;
  word-wrap: break-word;}
+.linkStyle_40{font-family:  'Arial' ,sans-serif ;
+ font-size: 25px; 
+ font-weight:normal; 
+ color: #0432FF;
+ text-decoration: underline; 
+ /* 0 0 0 #00F900 #FEFB00 #FF2600 */
+ word-wrap: break-word;}
+.linkStyle_40:visited{color:#FEFB00; text-decoration:underline;}
+.linkStyle_40:hover{color:#FF2600; text-decoration:underline;}
